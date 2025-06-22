@@ -59,7 +59,7 @@
 
 # Methoden
 ## "Spielreihe Hockey"
-1. Treibbalspiel: Je ein Spieler auf der Grundlinie, versucht Tore auf anderer Grundlinie zu erzielen und bei sich zu verhindern. Ballannahme und -abgabe/Torschuss
+1. Torschussspiel: Je ein Spieler auf der Grundlinie, versucht Tore auf anderer Grundlinie zu erzielen und bei sich zu verhindern. Ballannahme und -abgabe/Torschuss
 2. Treibball mit freier Bewegung und Ballführung in der eigenen Hälfte. Es können mehrere Spieler pro Feld dabei sein
 3. Treibball mit Pässen in der eigenen Hälfte
 4. Treibball mit 1 oder mehreren Gegnern in der eigenen Hälfte. Sie können angespielt werden, Ball erobern und Tore schießen
