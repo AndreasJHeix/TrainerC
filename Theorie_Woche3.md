@@ -18,8 +18,8 @@
 * Umspielen
 * Abwehrtechnik
 * Torwarttechniken
-** Schienen, Schläger, Handschuh, Körper
-** Kicken: Kreuzkick, Kicken nach außen
+  * Schienen, Schläger, Handschuh, Körper
+  * Kicken: Kreuzkick, Kicken nach außen
 
 # Langfristiger Trainingsprozess
 |Abschnitt|Alter|Umfang|Hockey vs Allgemein|
@@ -29,7 +29,7 @@
 | Anschlusstraining | Bis U17/18 | 2-6 | 70:30 |
 | Leistungstraining | Ab U17 | 2-10 | 80:20 |
 
-## Ziele Grundtechnik
+## Ziele Grundtraining
 ### "Technische Ziele"
 1. Vielseitige körperliche Allgemeinausbildung
   * Koordination (Laufen, Bälle, Parcour...)
